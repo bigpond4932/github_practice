@@ -1,3 +1,4 @@
 # github_practice
-fetch fetch
+fetch fetch<br>
+pull --rebase<br>
 pull --rebase
